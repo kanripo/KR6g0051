@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:14.717400
+#+DATE: 2015-08-30 20:05:15.680944
 #+TITLE: 涅槃論
 #+PROPERTY: CBETA_ID T26n1527
 #+PROPERTY: ID KR6g0051
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1527
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0051_T_000-0277c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0051_T_001-0277c> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1527¶
-
- 涅槃論一卷¶
+No. 1527¶
+涅槃論一卷¶
 ¶
 婆藪槃豆作¶
 沙門達磨菩提譯¶
@@ -268,8 +267,7 @@ No.1527¶
 云何觀三寶。猶如天意樹。三寶名軌則。如來¶
 出世示現有三寶。由有三寶故。受三歸得¶
 五戒。亦得彈指。亦得隨意所修隨意所得。如¶
-來亦名如意三寶。亦名如來如意眾生如¶
-意。云何眾生如意。隨意受三歸五戒。乃至菩¶
+來亦名如意三寶。亦名如來如意眾生如意。云何眾生如意。隨意受三歸五戒。乃至菩¶
 薩悉得果報故。名眾生如意。如來如意者。隨
 <pb:KR6g0051_T_001-0280b>¶
 眾生根感故名如意。今言涅槃如意者。一切¶
