@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 涅槃論
+#+DATE: 2015-08-30 20:05:14.905766
+#+PROPERTY: JUAN 0
